@@ -55,8 +55,7 @@ Scale globally.
 ## Website
 
 Main: https://www.geak.com
-Alt: https://www.geak.co.za
 
-##
+## Contact
 
 Email: hello@geak.co.za
