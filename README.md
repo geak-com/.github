@@ -41,7 +41,7 @@ Scale globally.
 - Automated data systems
 - Recommendation technology
 
-## Team
+## Founders
 
 - Charmaine Dlamini (founder)
 - Richard Nqoko (co-founder)
