@@ -54,7 +54,7 @@ Scale globally.
 ---
 ## Website
 
-Main: https://www.geak.com
+Main: https://www.geak.co.za
 
 ## Contact
 
